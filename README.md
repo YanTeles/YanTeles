@@ -1,59 +1,44 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<img src="./assets/hero.svg" width="100%" alt="Yan Teles — Software Engineering Student" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yan+%F0%9F%91%8B;Turning+coffee+into+code+%E2%98%95;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/yan-teles-29a66a240/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:yantelespereira@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://wa.me/5531971226986" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://www.instagram.com/yan.teles12/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YanTeles&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/YanTeles?label=FOLLOWERS&style=flat-square&color=3b82f6&logo=github" alt="Followers" />
+
+<img src="./assets/divider.svg" width="100%" />
+
+<img src="./assets/about.svg" width="100%" alt="About me" />
+
+<img src="./assets/divider.svg" width="100%" />
+
+<img src="./assets/stack.svg" width="100%" alt="Tech stack" />
+
+<img src="./assets/divider.svg" width="100%" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YanTeles&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0a0616&title_color=c4b5fd&icon_color=a855f7&text_color=e9d5ff&ring_color=7c3aed" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanTeles&layout=compact&hide_border=true&langs_count=6&bg_color=0a0616&title_color=c4b5fd&text_color=e9d5ff" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=YanTeles&hide_border=true&background=0a0616&ring=a855f7&fire=60a5fa&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=8b7fb8&stroke=2a1b4d" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YanTeles&bg_color=0a0616&color=c4b5fd&line=a855f7&point=60a5fa&area=true&area_color=7c3aed&hide_border=true&title_color=c4b5fd" width="100%" alt="Contribution graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=YanTeles&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
+
+<img src="./assets/divider.svg" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:7c3aed,100:0a0616&height=120&section=footer&text=Let's%20connect!&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%" />
+
 </div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yan-teles-29a66a240/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/yan.teles12/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="mailto:Yantelespereira@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/31971226986?text=MENSAGEM" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Here's a suggestion to fill in your profile:<br><br>🔭 I’m working as a Software Engineering student at Unileste.<br><br>📚 I'm currently learning more about software development, algorithms, and problem-solving techniques.<br><br>⚡ In my free time, I enjoy exploring new technologies, playing games, and spending time with family and friends.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-
