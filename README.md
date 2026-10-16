@@ -33,7 +33,7 @@
 
 <img src="https://streak-stats.demolab.com?user=YanTeles&hide_border=true&background=0a0616&ring=a855f7&fire=60a5fa&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=8b7fb8&stroke=2a1b4d" alt="GitHub streak" />
 
-<img src="https://ghchart.rshah.org/a855f7/YanTeles" width="100%" alt="Contribution chart" />
+<img src="https://raw.githubusercontent.com/YanTeles/YanTeles/output/snake.svg" width="100%" alt="Snake eating my contributions" />
 
 <img src="./assets/divider.svg" width="100%" />
 
