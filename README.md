@@ -33,9 +33,7 @@
 
 <img src="https://streak-stats.demolab.com?user=YanTeles&hide_border=true&background=0a0616&ring=a855f7&fire=60a5fa&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=8b7fb8&stroke=2a1b4d" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YanTeles&bg_color=0a0616&color=c4b5fd&line=a855f7&point=60a5fa&area=true&area_color=7c3aed&hide_border=true&title_color=c4b5fd" width="100%" alt="Contribution graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=YanTeles&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
+<img src="https://ghchart.rshah.org/a855f7/YanTeles" width="100%" alt="Contribution chart" />
 
 <img src="./assets/divider.svg" width="100%" />
 
