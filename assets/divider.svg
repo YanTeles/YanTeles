@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#a855f7" stop-opacity=".6"/>
+      <stop offset="80%" stop-color="#3b82f6" stop-opacity=".6"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="spark">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="40%" stop-color="#c4b5fd" stop-opacity=".8"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      #s { animation: run 4s ease-in-out infinite; }
+      @keyframes run { from { transform: translateX(0); } to { transform: translateX(860px); } }
+    </style>
+  </defs>
+  <rect x="0" y="11.5" width="900" height="1" fill="url(#g)"/>
+  <ellipse id="s" cx="20" cy="12" rx="40" ry="5" fill="url(#spark)"/>
+</svg>

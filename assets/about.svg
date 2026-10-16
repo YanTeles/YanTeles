@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0616"/>
+      <stop offset="100%" stop-color="#0b0f22"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="50"/>
+    </filter>
+    <clipPath id="card"><rect width="900" height="300" rx="16"/></clipPath>
+    <style>
+      text { font-family: Consolas, 'Courier New', monospace; }
+      .ln { opacity: 0; animation: type .5s ease-out forwards; }
+      @keyframes type { from { opacity: 0; transform: translateX(-10px); } to { opacity: 1; transform: translateX(0); } }
+      #cursor { opacity: 0; animation: show 0s linear 4.6s forwards, blink 1s steps(1) 4.6s infinite; }
+      @keyframes show { to { opacity: 1; } }
+      @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
+      #halo { animation: breathe 6s ease-in-out infinite; }
+      @keyframes breathe { 0%,100% { opacity: .25; } 50% { opacity: .5; } }
+      #border { stroke-dasharray: 2380; stroke-dashoffset: 2380; animation: draw 2.5s ease-out forwards; }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="900" height="300" fill="url(#bg)"/>
+    <circle id="halo" cx="780" cy="240" r="130" fill="#7c3aed" filter="url(#soft)"/>
+
+    <!-- window bar -->
+    <rect width="900" height="40" fill="#120b26"/>
+    <circle cx="26" cy="20" r="6" fill="#ff5f57"/>
+    <circle cx="46" cy="20" r="6" fill="#febc2e"/>
+    <circle cx="66" cy="20" r="6" fill="#28c840"/>
+    <text x="450" y="25" text-anchor="middle" font-size="12" fill="#8b7fb8" letter-spacing="2">yan@unileste: ~/about-me</text>
+
+    <g font-size="15">
+      <g class="ln" style="animation-delay:.3s">
+        <text x="32" y="80"><tspan fill="#a855f7">❯</tspan><tspan fill="#60a5fa"> whoami</tspan></text>
+      </g>
+      <g class="ln" style="animation-delay:.8s">
+        <text x="52" y="104" fill="#e9d5ff">Yan Teles — Software Engineering student @ Unileste</text>
+      </g>
+
+      <g class="ln" style="animation-delay:1.5s">
+        <text x="32" y="140"><tspan fill="#a855f7">❯</tspan><tspan fill="#60a5fa"> cat</tspan><tspan fill="#cbd5e1"> focus.txt</tspan></text>
+      </g>
+      <g class="ln" style="animation-delay:2s">
+        <text x="52" y="164" fill="#e9d5ff">Software development · Algorithms · Problem solving</text>
+      </g>
+
+      <g class="ln" style="animation-delay:2.7s">
+        <text x="32" y="200"><tspan fill="#a855f7">❯</tspan><tspan fill="#60a5fa"> cat</tspan><tspan fill="#cbd5e1"> hobbies.txt</tspan></text>
+      </g>
+      <g class="ln" style="animation-delay:3.2s">
+        <text x="52" y="224" fill="#e9d5ff">New tech · Games · Family &amp; friends</text>
+      </g>
+
+      <g class="ln" style="animation-delay:3.9s">
+        <text x="32" y="260"><tspan fill="#a855f7">❯</tspan><tspan fill="#60a5fa"> echo</tspan><tspan fill="#cbd5e1"> $STATUS</tspan><tspan fill="#22c55e">  → open to internships</tspan></text>
+      </g>
+    </g>
+
+    <g class="ln" style="animation-delay:4.4s">
+      <text x="32" y="288" font-size="15" fill="#a855f7">❯</text>
+    </g>
+    <rect id="cursor" x="50" y="275" width="9" height="16" fill="#c4b5fd"/>
+  </g>
+
+  <rect id="border" x="1" y="1" width="898" height="298" rx="16" fill="none" stroke="url(#edge)" stroke-width="1.5" stroke-opacity=".7"/>
+</svg>
