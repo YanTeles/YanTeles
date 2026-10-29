@@ -28,8 +28,10 @@
 
 <img src="./assets/divider.svg" width="100%" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YanTeles&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0a0616&title_color=c4b5fd&icon_color=a855f7&text_color=e9d5ff&ring_color=7c3aed" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanTeles&layout=compact&hide_border=true&langs_count=6&bg_color=0a0616&title_color=c4b5fd&text_color=e9d5ff" alt="Top languages" />
+<img width="49%" src="https://raw.githubusercontent.com/YanTeles/YanTeles/output/stats.svg" alt="GitHub stats" />
+<img width="49%" src="https://raw.githubusercontent.com/YanTeles/YanTeles/output/langs.svg" alt="Top languages" />
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=YanTeles&hide_border=true&background=0a0616&ring=a855f7&fire=60a5fa&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=8b7fb8&stroke=2a1b4d" alt="GitHub streak" />
 
