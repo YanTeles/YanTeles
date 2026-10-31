@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200" font-family="'Segoe UI', Ubuntu, sans-serif">
+  <rect x="0.5" y="0.5" width="399" height="199" rx="8" fill="#0a0616" stroke="#2a1b4d"/>
+  <text x="25" y="35" fill="#c4b5fd" font-size="18" font-weight="600">Most Used Languages</text>
+  <clipPath id="r"><rect x="25" y="0" width="350" height="8" rx="4"/></clipPath>
+  <g transform="translate(0 55)" clip-path="url(#r)"><rect x="25.00" y="0" width="254.31" height="8" fill="#3178c6"/><rect x="279.31" y="0" width="74.88" height="8" fill="#336790"/><rect x="354.19" y="0" width="14.47" height="8" fill="#663399"/><rect x="368.66" y="0" width="5.75" height="8" fill="#f1e05a"/><rect x="374.40" y="0" width="0.60" height="8" fill="#e34c26"/></g>
+  <circle cx="30" cy="91" r="5" fill="#3178c6"/>
+  <text x="41" y="95" fill="#e9d5ff" font-size="12">TypeScript <tspan fill="#8b7fb8">72.7%</tspan></text>
+  <circle cx="215" cy="91" r="5" fill="#336790"/>
+  <text x="226" y="95" fill="#e9d5ff" font-size="12">PLpgSQL <tspan fill="#8b7fb8">21.4%</tspan></text>
+  <circle cx="30" cy="116" r="5" fill="#663399"/>
+  <text x="41" y="120" fill="#e9d5ff" font-size="12">CSS <tspan fill="#8b7fb8">4.1%</tspan></text>
+  <circle cx="215" cy="116" r="5" fill="#f1e05a"/>
+  <text x="226" y="120" fill="#e9d5ff" font-size="12">JavaScript <tspan fill="#8b7fb8">1.6%</tspan></text>
+  <circle cx="30" cy="141" r="5" fill="#e34c26"/>
+  <text x="41" y="145" fill="#e9d5ff" font-size="12">HTML <tspan fill="#8b7fb8">0.2%</tspan></text>
+</svg>
